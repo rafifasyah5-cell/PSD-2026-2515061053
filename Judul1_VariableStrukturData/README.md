@@ -1,1 +1,4 @@
 https://youtu.be/liSQsA6kO7M
+Program ini bekerja dengan konsep doubly linked list, di mana setiap lagu disimpan sebagai node yang saling terhubung ke lagu berikutnya dan sebelumnya. Playlist memiliki penunjuk utama (head) untuk lagu pertama dan current untuk lagu yang sedang diputar. Saat user memilih menu, program akan menjalankan fungsi sesuai input. Menambah lagu akan menyambungkan node baru di akhir playlist. Menghapus lagu akan memutus dan menyambung ulang node di sekitarnya tanpa menggeser data lain. Fitur next dan previous memindahkan posisi current ke lagu setelah atau sebelumnya, sehingga bisa navigasi maju-mundur seperti playlist pada aplikasi musik.
+Output yang ditampilkan menyesuaikan aksi user, seperti daftar lagu, lagu yang sedang diputar, atau notifikasi jika sudah di lagu terakhir atau pertama. Program terus berjalan dalam loop sampai user memilih keluar.
+
