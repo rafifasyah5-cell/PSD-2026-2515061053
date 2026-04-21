@@ -4,7 +4,6 @@ class Song:
         self.next = None
         self.prev = None
 
-
 class Playlist:
     def __init__(self):
         self.head = None
@@ -72,8 +71,6 @@ class Playlist:
         else:
             print("Sudah di lagu pertama")
 
-
-# ===== MENU INTERAKTIF =====
 playlist = Playlist()
 
 while True:
