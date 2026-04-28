@@ -14,3 +14,7 @@ Bagian ini adalah tahap penentuan mode dan penyajian hasil akhir. Program memint
 
 <img width="936" height="159" alt="Screenshot 2026-04-28 101631" src="https://github.com/user-attachments/assets/bd4e1def-3c3f-4470-a554-03d98ce68f1d" />
 Bagian terakhir ini berfungsi sebagai pengaman dan pemicu program. Baris except ValueError akan menangkap kesalahan jika kamu memasukkan teks saat program meminta angka, sehingga program tidak langsung berhenti error melainkan memberikan pesan peringatan yang jelas. Sementara itu, baris paling bawah memastikan bahwa seluruh fungsi utama dijalankan secara otomatis hanya ketika file tersebut dibuka langsung, sehingga program bisa berjalan dari awal sampai selesai dengan teratur.  
+
+
+Link Video Youtube :
+https://youtu.be/x9M5f4aa_OE
