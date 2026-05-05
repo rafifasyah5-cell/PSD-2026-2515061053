@@ -17,3 +17,9 @@ Bagian ini adalah inti dari proses pencarian di mana algoritma mulai bekerja mem
 <img width="1049" height="489" alt="Screenshot 2026-05-05 160119" src="https://github.com/user-attachments/assets/86275f1a-67ad-426f-925b-e3e9b3a843fd" />
 
 Bagian ini adalah pengambil keputusan hasil pencarian. Jika halaman tengah sesuai target, program mencetak keberhasilan dan berhenti. Jika halaman terlalu kecil, batas awal dinaikkan, jika terlalu besar, batas akhir diturunkan untuk mempersempit area pencarian. Di akhir, terdapat except ValueError untuk menangani kesalahan input pengguna dan baris perintah paling bawah berfungsi untuk menjalankan seluruh simulasi tersebut.
+
+
+<img width="687" height="450" alt="Screenshot 2026-05-05 160319" src="https://github.com/user-attachments/assets/aa2643c8-1bc6-40f5-9fa9-14ea3668c3d5" />
+
+Saat user memasukkan total 100 halaman dan mencari halaman 45, program tidak mengeceknya satu per satu dari awal, melainkan terus membelah dua area pencarian.
+Hanya dalam 7 langkah, program berhasil mempersempit jangkauan dari 100 halaman hingga tepat ke angka 45. Di setiap langkah, program memberikan keterangan apakah tebakan tengahnya "Terlalu besar" atau "Terlalu kecil" agar user bisa melihat bagaimana batas pencarian bergeser secara cerdas hingga target ditemukan.
