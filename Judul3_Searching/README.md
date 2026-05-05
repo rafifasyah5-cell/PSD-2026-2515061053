@@ -1,3 +1,5 @@
+Link Video : https://youtu.be/fnCbEHP0HLw
+
 Program Mencari Halaman Buku
 
 Program ini berfungsi sebagai asisten pencari cepat untuk menemukan data di dalam daftar yang sudah terurut, seperti mencari halaman buku. Tujuannya adalah memangkas waktu  agar tidak perlu mengecek ribuan data satu per satu.
