@@ -1,3 +1,5 @@
+Link Video Youtube : https://youtu.be/9B42lZNVhnA?si=8HHfEEx-nNGNyJ3D
+
 Program ini adalah sistem pemesanan tiket kereta api sederhana yang menggunakan konsep queue array atau antrian FIFO (First In First Out). Program ini memungkinkan pengguna untuk menambahkan pemesanan tiket, memproses antrian pemesanan paling depan, dan melihat daftar antrian yang sedang menunggu. Data penumpang disimpan dalam list berupa nama dan tujuan perjalanan. Program berjalan menggunakan menu interaktif sehingga pengguna bisa memilih fitur yang diinginkan sampai memilih keluar dari program.
 
 <img width="593" height="358" alt="Screenshot 2026-05-12 094708" src="https://github.com/user-attachments/assets/ca44c0e9-5a35-41b0-8f6b-ab19ab5870dc" />
