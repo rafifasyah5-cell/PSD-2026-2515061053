@@ -11,7 +11,7 @@ Dengan membagi jalur ke kiri dan kanan seperti ini, program dapat menemukan buku
 
 Fungsi ini bertindak sebagai cetakan pabrik untuk membuat objek buku baru. Ketika dipanggil, ia akan menerima data berupa nomor ISBN dan judul, lalu menyimpannya secara permanen ke dalam blok memori. Selain menyimpan data, fungsi ini juga menyiapkan dua ruang kosong bernama left dan right.
 
-![Uploading Screenshot 2026-05-20 150730.png…]()
+<img width="270" height="110" alt="Screenshot 2026-05-20 150730" src="https://github.com/user-attachments/assets/ace3c4e3-4171-4c9f-89c9-0403bfde4a3d" />
 
 Fungsi ini bertugas sebagai langkah persiapan awal persis saat sistem perpustakaan pertama kali dihidupkan. Tugas utamanya sangat sederhana, yaitu menetapkan nilai root atau akar menjadi kosong.
 
@@ -19,7 +19,8 @@ Fungsi ini bertugas sebagai langkah persiapan awal persis saat sistem perpustaka
 
 Fungsi ini akan mengecek kondisi awal perpustakaan terlebih dahulu. Apabila sistem melihat status root masih kosong, buku yang baru masuk tersebut akan langsung diletakkan di puncak dan diangkat menjadi buku pertama atau akar pohon. Namun, jika posisi puncak sudah terisi oleh buku lain, fungsi ini akan meminta bantuan mesin internal sistem untuk mencarikan posisi rak yang kosong dan sesuai.
 
-![Uploading Screenshot 2026-05-20 150959.png…]()
+<img width="810" height="384" alt="Screenshot 2026-05-20 150959" src="https://github.com/user-attachments/assets/8a03ff02-78ce-4609-a0d2-4c93e90fc7e8" />
+
 
 Fungsi ini bekerja secara diam-diam di belakang layar dengan membandingkan ISBN buku baru terhadap buku yang sedang dievaluasi. Apabila ISBN baru nilainya lebih kecil, ia akan langsung menelusuri jalur sebelah kiri, dan jika lebih besar ia akan pergi ke jalur kanan. Proses penelusuran ini dilakukan terus-menerus dengan memanggil dirinya sendiri berulang kali sampai ia akhirnya menemukan ruang yang benar-benar kosong untuk meletakkan buku tersebut.
 
