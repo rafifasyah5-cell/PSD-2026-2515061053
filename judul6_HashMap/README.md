@@ -1,3 +1,5 @@
+Link YT : https://youtu.be/BchFhlyPOhQ?si=aVN03EVKAZ-IH7ha
+
 Program ini berfungsi sebagai sistem manajemen data digital yang dirancang untuk mengoptimalkan efisiensi proses administrasi. Melalui sistem ini, pengelola tidak perlu lagi menelusuri informasi secara manual yang memakan banyak waktu. Hanya dengan memasukkan Nomor Pokok Mahasiswa (NPM), sistem akan langsung menarik dan menampilkan biodata lengkap mahasiswa secara instan tanpa perlu memindai seluruh pangkalan data dari awal. Secara keseluruhan, tujuan utama program ini adalah memastikan proses registrasi dan pencarian identitas berskala besar berjalan jauh lebih cepat, terstruktur, dan akurat.
 
 <img width="536" height="256" alt="Screenshot 2026-06-06 085914" src="https://github.com/user-attachments/assets/bfc588f7-b64a-49b9-bf7b-717433471e13" />
